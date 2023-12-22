@@ -1,4 +1,6 @@
 id=move-certs
+version=v1
+versionCode=1
 name=Move Certs for Android 14+
 author=Howard,5ec1cff
 description=Moving Certs for Android 14+
